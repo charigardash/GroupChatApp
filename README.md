@@ -1,3 +1,3 @@
 # GroupChatApp
 
-let chat
+lets chat
